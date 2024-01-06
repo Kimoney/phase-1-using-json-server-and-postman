@@ -9,6 +9,18 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "title": "Not Named",
+      "content": "Just an example",
+      "id": 3,
+      "rating": 5
+    },
+    {
+      "title": "Another One",
+      "content": "Not A Bad example",
+      "score": 5,
+      "id": 4
     }
   ]
 }
